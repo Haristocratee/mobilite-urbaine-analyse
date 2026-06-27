@@ -9,6 +9,12 @@
 
 ---
 
+
+## Visualisation
+
+![Carte des profils territoriaux · Part modale · Courbe de charge horaire](assets/viz_1_mobilite.png)
+
+> *Carte des profils territoriaux · Part modale · Courbe de charge horaire*
 ## 🎯 Problématique
 
 Comment identifier les communes qui cumulent un fort besoin de déplacements et un déficit d'offre de transports en commun, afin de prioriser les investissements en mobilité douce ?
